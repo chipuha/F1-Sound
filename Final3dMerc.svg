@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="357.31159"
-     inkscape:cy="324.69235"
+     inkscape:zoom="1.4"
+     inkscape:cx="387.07409"
+     inkscape:cy="398.86951"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34894,30 +34894,30 @@ sBLbR6wLR/JB2QAAAABJRU5ErkJggg==
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="89.343536"
-       y="240.32828"
+       x="86.645363"
+       y="241.14485"
        id="text4936-8"
        transform="rotate(11.397658)"
        inkscape:transform-center-x="-0.23193765"
        inkscape:transform-center-y="-0.21688677"><tspan
          sodipodi:role="line"
          id="tspan4934-9"
-         x="89.343536"
-         y="240.32828"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';stroke-width:0.26458332">Frequency</tspan></text>
+         x="86.645363"
+         y="241.14485"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';stroke-width:0.26458332">Frequency (kHz)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="103.20626"
-       y="268.44647"
+       x="116.28564"
+       y="262.6438"
        id="text4936-8-9"
-       transform="rotate(-4.9505172)"
-       inkscape:transform-center-x="-0.21833948"
-       inkscape:transform-center-y="-0.11468873"><tspan
+       transform="rotate(-2.1152091)"
+       inkscape:transform-center-x="-0.22353774"
+       inkscape:transform-center-y="-0.15174495"><tspan
          sodipodi:role="line"
          id="tspan4934-9-7"
-         x="103.20626"
-         y="268.44647"
+         x="116.28564"
+         y="262.6438"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';stroke-width:0.26458332">Seconds</tspan></text>
   </g>
   <g
